@@ -1,0 +1,12 @@
+{
+  "name": "app-financas",
+  "displayName": "app-financas",
+  "expo": {
+    "name": "app-financas",
+    "slug": "app-financas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
